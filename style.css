@@ -1,0 +1,33 @@
+body {
+    background-color: bisque;
+}
+
+#loancal {
+    width: 350px;
+    height: 250px;
+    background-color: chocolate;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    padding-left: 10px;
+    font-size: 20px;
+}
+
+#amount {
+    width: 150px;
+}
+
+#interest-rate {
+    margin-left: 2px;
+    width: 150px;
+}
+
+#month {
+    margin-left: 12px;
+    width: 150px;
+}
